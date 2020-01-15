@@ -1,0 +1,218 @@
+D:\Student Files\Desktop\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe.config
+D:\Student Files\Desktop\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe
+D:\Student Files\Desktop\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.pdb
+D:\Student Files\Desktop\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csprojAssemblyReference.cache
+D:\Student Files\Desktop\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Child.resources
+D:\Student Files\Desktop\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.MDI.resources
+D:\Student Files\Desktop\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Properties.Resources.resources
+D:\Student Files\Desktop\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.GenerateResource.cache
+D:\Student Files\Desktop\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.CoreCompileInputs.cache
+D:\Student Files\Desktop\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.exe
+D:\Student Files\Desktop\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.pdb
+F:\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe.config
+F:\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe
+F:\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.pdb
+F:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csprojAssemblyReference.cache
+F:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Child.resources
+F:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.MDI.resources
+F:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Properties.Resources.resources
+F:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.GenerateResource.cache
+F:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.CoreCompileInputs.cache
+F:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.exe
+F:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.pdb
+D:\5th Semestr\ISIS\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe.config
+D:\5th Semestr\ISIS\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe
+D:\5th Semestr\ISIS\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.pdb
+D:\5th Semestr\ISIS\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csprojAssemblyReference.cache
+D:\5th Semestr\ISIS\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Child.resources
+D:\5th Semestr\ISIS\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.MDI.resources
+D:\5th Semestr\ISIS\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Properties.Resources.resources
+D:\5th Semestr\ISIS\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.GenerateResource.cache
+D:\5th Semestr\ISIS\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.CoreCompileInputs.cache
+D:\5th Semestr\ISIS\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.exe
+D:\5th Semestr\ISIS\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.pdb
+E:\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe.config
+E:\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe
+E:\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.pdb
+E:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csprojAssemblyReference.cache
+E:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Child.resources
+E:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.MDI.resources
+E:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Properties.Resources.resources
+E:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.GenerateResource.cache
+E:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.CoreCompileInputs.cache
+E:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.exe
+E:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.pdb
+G:\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe.config
+G:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.exe
+G:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.pdb
+G:\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe
+G:\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.pdb
+G:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Child.resources
+G:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.MDI.resources
+G:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Properties.Resources.resources
+G:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.GenerateResource.Cache
+G:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csprojAssemblyReference.cache
+G:\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.CoreCompileInputs.cache
+D:\5th Semestr\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe.config
+D:\5th Semestr\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe
+D:\5th Semestr\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.pdb
+D:\5th Semestr\SergeresISIS\SergeresISIS\bin\Debug\nunit.framework.dll
+D:\5th Semestr\SergeresISIS\SergeresISIS\bin\Debug\nunit.framework.pdb
+D:\5th Semestr\SergeresISIS\SergeresISIS\bin\Debug\nunit.framework.xml
+D:\5th Semestr\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csprojAssemblyReference.cache
+D:\5th Semestr\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Child.resources
+D:\5th Semestr\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.MDI.resources
+D:\5th Semestr\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Properties.Resources.resources
+D:\5th Semestr\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.GenerateResource.cache
+D:\5th Semestr\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.CoreCompileInputs.cache
+D:\5th Semestr\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.CopyComplete
+D:\5th Semestr\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.exe
+D:\5th Semestr\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.pdb
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe.config
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.pdb
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\nunit.framework.dll
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\nunit.framework.pdb
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\nunit.framework.xml
+E:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csprojAssemblyReference.cache
+E:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Child.resources
+E:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.MDI.resources
+E:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Properties.Resources.resources
+E:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.GenerateResource.cache
+E:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.CopyComplete
+E:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.exe
+E:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.pdb
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe.config
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.pdb
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\nunit.framework.dll
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\nunit.framework.pdb
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\nunit.framework.xml
+F:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csprojAssemblyReference.cache
+F:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Child.resources
+F:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.MDI.resources
+F:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Properties.Resources.resources
+F:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.GenerateResource.cache
+F:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.CoreCompileInputs.cache
+F:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.CopyComplete
+F:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.exe
+F:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.pdb
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.abstractions.dll
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.assert.dll
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.core.dll
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.execution.dotnet.dll
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.abstractions.xml
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.assert.xml
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.core.xml
+E:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.execution.dotnet.xml
+E:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.CoreCompileInputs.cache
+E:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Auth.resources
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.abstractions.dll
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.assert.dll
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.core.dll
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.execution.dotnet.dll
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.abstractions.xml
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.assert.xml
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.core.xml
+F:\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.execution.dotnet.xml
+F:\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Auth.resources
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe.config
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.exe
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\SergeresISIS.pdb
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\Newtonsoft.Json.dll
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\nunit.framework.dll
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\System.Net.Http.Formatting.dll
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\System.Web.Http.dll
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\System.Web.Http.WebHost.dll
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.abstractions.dll
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.assert.dll
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.core.dll
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.execution.dotnet.dll
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\Newtonsoft.Json.xml
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\nunit.framework.pdb
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\nunit.framework.xml
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\System.Net.Http.Formatting.xml
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\System.Web.Http.xml
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\System.Web.Http.WebHost.xml
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.abstractions.xml
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.assert.xml
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.core.xml
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\bin\Debug\xunit.execution.dotnet.xml
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csprojAssemblyReference.cache
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Auth.resources
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Child.resources
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.MDI.resources
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.Properties.Resources.resources
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.GenerateResource.cache
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.CoreCompileInputs.cache
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.csproj.CopyComplete
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.exe
+D:\5th Semestr\flash 2019\tests\SergeresISIS\SergeresISIS\obj\Debug\SergeresISIS.pdb
+D:\ISISTests\SergeresISIS\bin\Debug\SergeresISIS.exe.config
+D:\ISISTests\SergeresISIS\bin\Debug\SergeresISIS.exe
+D:\ISISTests\SergeresISIS\bin\Debug\SergeresISIS.pdb
+D:\ISISTests\SergeresISIS\bin\Debug\Newtonsoft.Json.dll
+D:\ISISTests\SergeresISIS\bin\Debug\nunit.framework.dll
+D:\ISISTests\SergeresISIS\bin\Debug\System.Net.Http.Formatting.dll
+D:\ISISTests\SergeresISIS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ISISTests\SergeresISIS\bin\Debug\System.Web.Http.dll
+D:\ISISTests\SergeresISIS\bin\Debug\System.Web.Http.WebHost.dll
+D:\ISISTests\SergeresISIS\bin\Debug\xunit.abstractions.dll
+D:\ISISTests\SergeresISIS\bin\Debug\xunit.assert.dll
+D:\ISISTests\SergeresISIS\bin\Debug\xunit.core.dll
+D:\ISISTests\SergeresISIS\bin\Debug\xunit.execution.dotnet.dll
+D:\ISISTests\SergeresISIS\bin\Debug\Newtonsoft.Json.xml
+D:\ISISTests\SergeresISIS\bin\Debug\nunit.framework.pdb
+D:\ISISTests\SergeresISIS\bin\Debug\nunit.framework.xml
+D:\ISISTests\SergeresISIS\bin\Debug\System.Net.Http.Formatting.xml
+D:\ISISTests\SergeresISIS\bin\Debug\System.Web.Http.xml
+D:\ISISTests\SergeresISIS\bin\Debug\System.Web.Http.WebHost.xml
+D:\ISISTests\SergeresISIS\bin\Debug\xunit.abstractions.xml
+D:\ISISTests\SergeresISIS\bin\Debug\xunit.assert.xml
+D:\ISISTests\SergeresISIS\bin\Debug\xunit.core.xml
+D:\ISISTests\SergeresISIS\bin\Debug\xunit.execution.dotnet.xml
+D:\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.csprojAssemblyReference.cache
+D:\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.Auth.resources
+D:\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.Child.resources
+D:\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.MDI.resources
+D:\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.Properties.Resources.resources
+D:\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.csproj.GenerateResource.cache
+D:\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.csproj.CoreCompileInputs.cache
+D:\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.csproj.CopyComplete
+D:\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.exe
+D:\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.pdb
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\SergeresISIS.exe.config
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\SergeresISIS.exe
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\SergeresISIS.pdb
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\nunit.framework.dll
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\System.Web.Http.dll
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\xunit.abstractions.dll
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\xunit.assert.dll
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\xunit.core.dll
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\xunit.execution.dotnet.dll
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\nunit.framework.pdb
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\nunit.framework.xml
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\System.Web.Http.xml
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\xunit.abstractions.xml
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\xunit.assert.xml
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\xunit.core.xml
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\bin\Debug\xunit.execution.dotnet.xml
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.csprojAssemblyReference.cache
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.Auth.resources
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.Child.resources
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.MDI.resources
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.Properties.Resources.resources
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.csproj.GenerateResource.cache
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.csproj.CopyComplete
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.exe
+C:\Users\sergi\Downloads\ИСИС\ISISTests\SergeresISIS\obj\Debug\SergeresISIS.pdb

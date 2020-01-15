@@ -1,0 +1,27 @@
+D:\5th Semestr\SergeresISIS\UniTest\bin\Debug\UniTest.dll
+D:\5th Semestr\SergeresISIS\UniTest\bin\Debug\UniTest.pdb
+D:\5th Semestr\SergeresISIS\UniTest\bin\Debug\nunit.framework.dll
+D:\5th Semestr\SergeresISIS\UniTest\bin\Debug\SergeresISIS.exe
+D:\5th Semestr\SergeresISIS\UniTest\bin\Debug\SergeresISIS.pdb
+D:\5th Semestr\SergeresISIS\UniTest\bin\Debug\SergeresISIS.exe.config
+D:\5th Semestr\SergeresISIS\UniTest\bin\Debug\nunit.framework.pdb
+D:\5th Semestr\SergeresISIS\UniTest\bin\Debug\nunit.framework.xml
+D:\5th Semestr\SergeresISIS\UniTest\obj\Debug\UniTest.csprojAssemblyReference.cache
+D:\5th Semestr\SergeresISIS\UniTest\obj\Debug\UniTest.csproj.CoreCompileInputs.cache
+D:\5th Semestr\SergeresISIS\UniTest\obj\Debug\UniTest.csproj.CopyComplete
+D:\5th Semestr\SergeresISIS\UniTest\obj\Debug\UniTest.dll
+D:\5th Semestr\SergeresISIS\UniTest\obj\Debug\UniTest.pdb
+E:\tests\SergeresISIS\UniTest\bin\Debug\UniTest.dll
+E:\tests\SergeresISIS\UniTest\bin\Debug\UniTest.pdb
+E:\tests\SergeresISIS\UniTest\bin\Debug\nunit.framework.dll
+E:\tests\SergeresISIS\UniTest\bin\Debug\SergeresISIS.exe
+E:\tests\SergeresISIS\UniTest\bin\Debug\SergeresISIS.pdb
+E:\tests\SergeresISIS\UniTest\bin\Debug\SergeresISIS.exe.config
+E:\tests\SergeresISIS\UniTest\bin\Debug\nunit.framework.pdb
+E:\tests\SergeresISIS\UniTest\bin\Debug\nunit.framework.xml
+E:\tests\SergeresISIS\UniTest\obj\Debug\UniTest.csprojAssemblyReference.cache
+E:\tests\SergeresISIS\UniTest\obj\Debug\UniTest.csproj.CopyComplete
+E:\tests\SergeresISIS\UniTest\obj\Debug\UniTest.dll
+E:\tests\SergeresISIS\UniTest\obj\Debug\UniTest.pdb
+F:\tests\SergeresISIS\UniTest\obj\Debug\UniTest.dll
+F:\tests\SergeresISIS\UniTest\obj\Debug\UniTest.pdb
